@@ -1,6 +1,4 @@
 import "./App.css";
-//import { Typography } from "@mui/material";
-//import Navbar from "./components/Navbar";
 import { createTheme, ThemeProvider } from "@mui/material";
 import CssBaseline from "@mui/material/CssBaseline";
 
